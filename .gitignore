@@ -1,0 +1,22 @@
+﻿
+
+Keys/private.pem
+
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# Build files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Sensitive configuration
+appsettings.Development.json
+
+
+
